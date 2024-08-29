@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyBestYouTube</string>
+    <string-array name="categorie">
+        <item>Sport</item>
+        <item>Musique</item>
+        <item>Comédie</item>
+        <item>Documentaire</item>
+        <item>Voyage</item>
+        <item>Éducation</item>
+        <item>Technologie</item>
+        <item>Divertissement</item>
+    </string-array>
+</resources>
